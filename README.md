@@ -27,7 +27,7 @@ The amount of data available for the analysis was a bit challenging making it di
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
   - Theater Campaigns tend to be more successful when started in May.
-    -It can also be concluded the more than half of campaigns started through out the year tend to have a succesful outcome. 
+  - It can also be concluded the more than half of campaigns started through out the year tend to have a succesful outcome. 
 
 ![line chart showing the outcomes based on goals in percentages](resources/Outcomes_vs_Goals.png)
 
@@ -36,7 +36,7 @@ The amount of data available for the analysis was a bit challenging making it di
 
 
 - What are some limitations of this dataset?
-   -High volume of data
+  - High volume of data
 
 - What are some other possible tables and/or graphs that we could create?
   - A pivot table and a line graph could be created specificically for play outcomes based on launch dates to visualize whether they were be successful, failed or canceled.
